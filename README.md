@@ -3,4 +3,6 @@
 
 <img src="https://lanyard-profile-readme.vercel.app/api/723149720276697089?bg=#000cb8" width="450">
 
-# Currently Learningk
+# Currently Learning
+<p align='left'>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
